@@ -2,6 +2,7 @@
 A programmatic solution to the Gauss Circle problem
 
 The Gauss Circle problem is a mathematical problem to find a closed formula for the number of "lattice points" within a given circle. 
+The problem has yet to be solved, but Gauss got closer to a solution, so it's named after him.
 Lattice points are any point where both x and y are integer values. In other words, where you'd see crossing lines on graph paper.
 While this program does not provide a closed formula, it does count the number of lattice points in a very time-efficent manner. 
 Not only does it calculate lattice points for circles, but also spheres, hyperspheres, and any other circle-based object in any number of dimensions.
